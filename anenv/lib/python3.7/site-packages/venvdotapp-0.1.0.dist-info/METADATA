@@ -1,0 +1,9 @@
+Metadata-Version: 1.2
+Name: venvdotapp
+Version: 0.1.0
+Summary: Transform a virtual environment into a valid `.app` so that it can do .app-y
+Home-page: https://github.com/glyph/venvdotapp
+License: UNKNOWN
+Author: Glyph
+Author-email: glyph@twistedmatrix.com
+Classifier: License :: OSI Approved :: MIT License
